@@ -11,3 +11,12 @@ some simple demos
 
 4. 触摸摇杆插件
 [Saber2pr/ccc-bullet](https://github.com/Saber2pr/ccc-bullet)
+
+5. [摄像机实现场景切换2.0](https://saber2pr.github.io/Sabe
+r2pr/MyWeb/build/CameraManager/build/web-mobile)
+
+6. [碰撞减血](https://saber2pr.github.io/Sabe
+r2pr/MyWeb/build/collisionBar/build/web-mobile)
+
+7. [随机生成节点](https://saber2pr.github.io/Sabe
+r2pr/MyWeb/build/randCreate/build/web-mobile)

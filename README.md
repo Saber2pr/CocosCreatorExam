@@ -17,3 +17,6 @@ some simple demos
 6. [碰撞减血](https://saber2pr.github.io/MyWeb/build/collisionBar/build/web-mobile)
 
 7. [随机生成节点](https://saber2pr.github.io/MyWeb/build/randCreate/build/web-mobile)
+
+8. [边界检测](https://saber2pr.github.io/MyWeb/build/EdgeJudge/build/web-mobile)
+

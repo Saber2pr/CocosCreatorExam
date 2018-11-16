@@ -3,7 +3,7 @@ some simple demos
 
 1. [MathVec.js](https://github.com/Saber2pr/CocosCreatorExam/blob/master/CameraIdea/assets/script/MathVec.js)
   > 关于cocos的vec2点的简单操作
-2. [MoveCtrllor.js](https://github.com/Saber2pr/CocosCreatorExam/blob/master/CameraIdea/assets/script/MoveCtrllor.js) [>>>] [CameraIdea](https://saber2pr.github.io/Saber2pr/MyWeb/build/CameraIdea/build/web-mobile)
+2. [MoveCtrllor.js](https://github.com/Saber2pr/CocosCreatorExam/blob/master/CameraIdea/assets/script/MoveCtrllor.js) [>>>] [CameraIdea](https://saber2pr.github.io/Saber2pr/MyWeb/tree/master/build/CameraIdea/build/web-mobile)
   > 摄像机实验
   * ![loadingImage](https://github.com/Saber2pr/MyWeb/blob/master/resource/CameraIdea.png)
 3. [RandPlat.js](https://github.com/Saber2pr/CocosCreatorExam/blob/master/RandPlat/assets/Script/RandPlat.js) [>>>] [RandPlat](Saber2pr/MyWeb/build/randCreate/build/web-mobile) [>>>] [CSDN](https://blog.csdn.net/u011607490/article/details/82701325)

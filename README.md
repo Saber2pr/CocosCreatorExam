@@ -18,5 +18,5 @@ some simple demos
 
 7. [随机生成节点](https://saber2pr.github.io/MyWeb/build/randCreate/build/web-mobile)
 
-8. [边界检测](https://saber2pr.github.io/MyWeb/build/EdgeJudge/build/web-mobile)
+8. [边界检测](https://saber2pr.github.io/MyWeb/build/EdgeJudge/)
 

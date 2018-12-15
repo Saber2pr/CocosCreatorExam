@@ -15,3 +15,5 @@ some simple demos
 
 7. [边界检测](https://saber2pr.github.io/MyWeb/build/EdgeJudge/)
 
+8. [动作异步回调](https://saber2pr.github.io/MyWeb/build/AsyncAction/build/web-mobile)
+
